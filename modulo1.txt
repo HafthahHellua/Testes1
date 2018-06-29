@@ -7,4 +7,9 @@ Segunda Alteração do meu Arquivo
 
 Terceira Alteração do meu Arquivo
 
+<<<<<<< HEAD
 Este é o arquivo de Branch de Login
+=======
+
+Este arquivo é da Branch da Tela de Boas Vindas
+>>>>>>> Branch_Boa_Vindas
