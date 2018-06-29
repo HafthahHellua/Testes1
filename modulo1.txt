@@ -2,7 +2,3 @@ Teste modulo 1
 
 
 Alteração do meu primeiro arquivo
-
-
-
-Alteração 3 do meu primeiro arquivo
